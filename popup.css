@@ -1,0 +1,25 @@
+#counter{
+  font-size: 30px;
+}
+code {
+  padding: 2px;
+  height: 500px;
+  width: 400px;
+  font-size: 105%;
+}
+* {
+  word-break: break-all;
+}
+pre {
+  word-wrap: break-all;
+  overflow: scroll;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+body {
+  height: 140px;
+  width: 300px;
+  padding: 30px;
+}
