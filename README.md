@@ -14,7 +14,7 @@ Furthermore, this extension is OSS.
 ## Get it
 ### Google
 
-[![Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png)]()
+[![Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png)](https://chrome.google.com/webstore/detail/quickselectedtextcounter/kelaemeoedlpibohfcjcnkpfgoadkifb)
 
  
 ## Usage
